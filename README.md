@@ -1,141 +1,70 @@
-# 👋 Hi, I'm Rohan Ghoghari
+# 👋 Rohan Ghoghari
 
-🛠️ **DevOps Engineer** | 💻 **5+ Years in Web Development & DevOps**  
-🏛️ Government Solid Waste Management Software Developer under SBM System
-📍 Surat, Gujarat, India  
-🏢 Disha IT Solution  
+🛠️ **DevOps Engineer** | ☁️ **AWS • Kubernetes • Terraform**  
+🏛️ **Government Solid Waste Management Software Developer (SBM System)**  
+📍 Surat, India | 🏢 Disha IT Solution  
 
-🔗 [GitHub](https://github.com/roni3132) | [LinkedIn](https://in.linkedin.com/in/rohan-ghoghari)  
-📧 ghogharirohan@gmail.com  
+🔗 [GitHub](https://github.com/roni3132) • [LinkedIn](https://in.linkedin.com/in/rohan-ghoghari) • 📧 ghogharirohan@gmail.com
 
 ---
 
-## 🚀 About Me
+## 🚀 What I Do
 
-I am a **DevOps Engineer with 5+ years of experience** in web development and cloud-native DevOps practices.  
-I specialize in **building scalable, reliable, and secure systems** using modern DevOps tools and cloud platforms.
+I build **secure, scalable, and automated cloud systems**.  
+With **5+ years** across **Web Development → DevOps**, I focus on:
 
-I have hands-on experience with **AWS, Kubernetes, Docker, Terraform, Ansible**, and CI/CD pipelines using **Jenkins, GitHub Actions, and ArgoCD**.  
-I enjoy **automation, infrastructure as code, monitoring, and solving real production problems**.
-
----
-
-## 🧰 Tech Stack
-
-### ☁️ Cloud & Infrastructure
-- AWS
-- Terraform, Ansible
-- Docker, Kubernetes (EKS), Helm
-
-### 🔁 CI/CD & GitOps
-- Jenkins
-- GitHub Actions
-- GitLab CI
-- ArgoCD
-
-### 🔐 DevSecOps
-- SonarQube
-- OWASP
-- Trivy
-
-### 📊 Monitoring & Observability
-- Prometheus
-- Grafana
-
-### 💻 Programming & Databases
-- Bash, Python, PHP, JavaScript
-- ReactJS
-- MySQL, PostgreSQL, MongoDB
-
-### 🛠️ Tools
-- Git, GitHub, GitLab
-- Jira, Postman
-- Slack, Microsoft Teams
+- ⚙️ Automating infrastructure & deployments  
+- 🚢 Containerized & Kubernetes-based systems  
+- 📊 Monitoring, reliability & performance  
+- 🏛️ Large-scale **government production systems**
 
 ---
 
-## 💼 Professional Experience
+## 🧰 Core Skills (Snapshot)
 
-### **DISHA IT SOLUTION**  
-**Back-End Developer & DevOps Engineer**  
-📅 Jun 2021 – Present
-
-- Developed and maintained high-availability web applications for data processing and visualization.
-- Worked with **Core PHP, MySQL, ReactJS**, and system integrations.
-- Designed and implemented **CI/CD pipelines** for automated build and deployment.
-- Built **MVS (Daily Worker Tracking System)** with GIS integration.
-- Developed **SWMS (Solid Waste Management System)** used by the **Central Government of India**.
-- **Project Manager – Swachhata Mitra (Gov Project)**  
-  - Led implementation across **Bihar, Uttar Pradesh, and West Bengal**.
-- Managed AWS infrastructure using **Terraform, Ansible, and Kubernetes**.
-- Implemented **Prometheus & Grafana** for monitoring, alerting, and performance tracking.
-- Used **Jira, Postman, and Git workflows** for collaboration and delivery.
+**Cloud & Infra:** AWS, Terraform, Ansible  
+**Containers:** Docker, Kubernetes (EKS), Helm  
+**CI/CD & GitOps:** Jenkins, GitHub Actions, ArgoCD  
+**Observability:** Prometheus, Grafana  
+**DevSecOps:** SonarQube, Trivy, OWASP  
+**Code:** Bash, Python, PHP, JavaScript  
 
 ---
 
-### **NET GROW SOFTECH**  
-**Junior PHP Developer**  
-📅 Aug 2019 – Nov 2020
+## ⭐ Featured DevOps Work
 
-- Developed web applications using **PHP, MySQL, HTML, CSS, and JavaScript**.
-- Worked on live production projects.
-- Applied **OOP principles** and optimized backend performance.
-
----
-
-## 📌 Featured DevOps Projects
-
-🔹 **Devops-Mega-Project**  
-End-to-end DevOps implementation covering CI/CD, automation, and deployment workflows  
+🔹 **Devops-Mega-Project** – End-to-end CI/CD & automation  
 🔗 https://github.com/roni3132/Devops-Mega-Project  
 
-🔹 **three-tier-EKS**  
-Production-style three-tier application deployed on AWS EKS using Kubernetes  
+🔹 **three-tier-EKS** – Production-style app on AWS EKS  
 🔗 https://github.com/roni3132/three-tier-EKS  
 
-🔹 **Terraform-Nginx-Deployment**  
-Infrastructure as Code using Terraform to provision and deploy Nginx on cloud infrastructure  
+🔹 **Terraform-Nginx-Deployment** – IaC with Terraform  
 🔗 https://github.com/roni3132/Terraform-Nginx-Deployment  
 
-🔹 **remote-backend-TF**  
-Terraform remote backend implementation using S3 and DynamoDB for state locking  
+🔹 **remote-backend-TF** – Terraform state & locking (S3 + DynamoDB)  
 🔗 https://github.com/roni3132/remote-backend-TF  
 
-🔹 **todoapp-multi-tier**  
-Multi-tier application showcasing backend, database, and deployment architecture  
+🔹 **todoapp-multi-tier** – Multi-tier application architecture  
 🔗 https://github.com/roni3132/todoapp-multi-tier  
 
 ---
 
-## 🎓 Education
+## 🏛️ Real-World Impact
 
-- **MCA** – Swarrnim Startup & Innovation University (2022 – 2024)
-- **BCA** – Veer Narmad South Gujarat University (2019 – 2022)
-- **DevOps Zero to Hero (Batch 6)** – TrainWithShubham (2023 – 2024)
-
----
-
-## 🏆 Achievements
-
-- 🥇 Top 5 – National Hackathon (Jaipur JERC University)
-- 🏅 Highest Skilled Youngest Project Manager – Disha IT Solution
-- 🏛️ Experience in Government & enterprise-scale projects
+- 🚮 Built **Solid Waste Management Systems** used by the **Government of India**
+- 🧑‍💼 Project Manager for **Swachhata-Mitra** (Bihar, UP, WB)
+- 📈 Production monitoring with Prometheus & Grafana
+- 🏆 Top-5 National Hackathon | Youngest Project Manager Award
 
 ---
 
-## 📜 Certifications (In Progress)
-
-- AWS Community Builders
-- AWS Certified Solutions Architect – Associate
-
----
-
-## 🌱 Currently Learning
+## 🌱 Currently Focused On
 
 - Advanced Kubernetes & GitOps
 - Cloud security & DevSecOps
-- Large-scale observability systems
+- AWS Solutions Architect certification
 
 ---
 
-⭐ *Passionate about DevOps, automation, and building production-grade cloud systems.*
+⭐ *I love automation, clean infrastructure, and solving real production problems.*
