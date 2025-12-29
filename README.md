@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Rohan Ghoghari
 
 🛠️ **DevOps Engineer** | 💻 **5+ Years in Web Development & DevOps**  
+🏛️ Government Solid Waste Management Software Developer under SBM System
 📍 Surat, Gujarat, India  
 🏢 Disha IT Solution  
 
@@ -85,12 +86,24 @@ I enjoy **automation, infrastructure as code, monitoring, and solving real produ
 ## 📌 Featured DevOps Projects
 
 🔹 **Devops-Mega-Project**  
-🔹 **three-tier-EKS**  
-🔹 **Terraform-Nginx-Deployment**  
-🔹 **remote-backend-TF**  
-🔹 **todoapp-multi-tier**
+End-to-end DevOps implementation covering CI/CD, automation, and deployment workflows  
+🔗 https://github.com/roni3132/Devops-Mega-Project  
 
-➡️ These projects demonstrate real-world **CI/CD, Kubernetes, Terraform, and cloud architecture** skills.
+🔹 **three-tier-EKS**  
+Production-style three-tier application deployed on AWS EKS using Kubernetes  
+🔗 https://github.com/roni3132/three-tier-EKS  
+
+🔹 **Terraform-Nginx-Deployment**  
+Infrastructure as Code using Terraform to provision and deploy Nginx on cloud infrastructure  
+🔗 https://github.com/roni3132/Terraform-Nginx-Deployment  
+
+🔹 **remote-backend-TF**  
+Terraform remote backend implementation using S3 and DynamoDB for state locking  
+🔗 https://github.com/roni3132/remote-backend-TF  
+
+🔹 **todoapp-multi-tier**  
+Multi-tier application showcasing backend, database, and deployment architecture  
+🔗 https://github.com/roni3132/todoapp-multi-tier  
 
 ---
 
@@ -122,14 +135,6 @@ I enjoy **automation, infrastructure as code, monitoring, and solving real produ
 - Advanced Kubernetes & GitOps
 - Cloud security & DevSecOps
 - Large-scale observability systems
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: **ghogharirohan@gmail.com**
-- 🔗 LinkedIn: https://in.linkedin.com/in/rohan-ghoghari
-- 💻 GitHub: https://github.com/roni3132
 
 ---
 
